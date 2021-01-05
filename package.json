@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paka2223/Study.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "WCLEE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paka2223/Study/issues"
+  },
+  "homepage": "https://github.com/paka2223/Study#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
